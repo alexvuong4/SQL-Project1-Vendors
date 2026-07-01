@@ -1,0 +1,11 @@
+vendor_id,vendor_name,category,contact_email,phone,contract_start,contract_end,annual_spend
+V001,Dell Technologies,Hardware,sales@dell.com,800-624-9897,2022-01-01,2025-12-31,85000.00
+V002,CDW Corporation,Hardware,account@cdw.com,800-750-4239,2023-03-01,2026-02-28,42000.00
+V003,Microsoft,Software,enterprise@microsoft.com,800-642-7676,2021-06-01,2025-05-31,120000.00
+V004,Cisco Systems,Networking,sales@cisco.com,800-553-6387,2022-09-01,2025-08-31,67000.00
+V005,Lenovo,Hardware,b2b@lenovo.com,855-253-6686,2023-01-01,2025-12-31,31000.00
+V006,ServiceNow,Software,sales@servicenow.com,888-914-9463,2023-07-01,2026-06-30,55000.00
+V007,SolarWinds,Software,sales@solarwinds.com,866-530-8100,2022-04-01,2025-03-31,18000.00
+V008,HP Inc,Hardware,hpstore@hp.com,800-474-6836,2021-11-01,2024-10-31,29000.00
+V009,Fortinet,Networking,sales@fortinet.com,866-868-3678,2023-02-01,2026-01-31,44000.00
+V010,Adobe Systems,Software,enterprise@adobe.com,800-833-6687,2022-08-01,2025-07-31,22000.00

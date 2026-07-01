@@ -1,0 +1,21 @@
+employee_id,first_name,last_name,job_title,hire_date,email,department_id
+E001,James,Carter,Systems Administrator,2019-03-15,j.carter@company.com,D001
+E002,Priya,Sharma,Network Engineer,2020-07-01,p.sharma@company.com,D001
+E003,Marcus,Williams,Financial Analyst,2018-11-20,m.williams@company.com,D002
+E004,Sarah,Johnson,HR Manager,2017-05-10,s.johnson@company.com,D003
+E005,Kevin,Lee,Help Desk Technician,2021-02-28,k.lee@company.com,D001
+E006,Diana,Nguyen,Marketing Manager,2022-01-10,d.nguyen@company.com,D004
+E007,Tom,Brooks,IT Manager,2016-09-01,t.brooks@company.com,D001
+E008,Aisha,Patel,Accounting Specialist,2020-04-14,a.patel@company.com,D002
+E009,Ryan,Mitchell,Systems Administrator,2021-08-23,r.mitchell@company.com,D001
+E010,Lisa,Torres,Sales Manager,2019-06-15,l.torres@company.com,D005
+E011,Chris,Evans,Network Engineer,2022-06-19,c.evans@company.com,D001
+E012,Nina,Roberts,Content Strategist,2021-12-01,n.roberts@company.com,D004
+E013,Daniel,Kim,Help Desk Technician,2023-09-11,d.kim@company.com,D001
+E014,Monica,Stein,Finance Manager,2015-07-22,m.stein@company.com,D002
+E015,Brad,Thompson,Security Analyst,2020-10-30,b.thompson@company.com,D001
+E016,Rachel,Green,Sales Representative,2022-03-14,r.green@company.com,D005
+E017,Jason,Park,HR Coordinator,2023-01-09,j.park@company.com,D003
+E018,Tina,Morales,Marketing Specialist,2021-07-20,t.morales@company.com,D004
+E019,Derek,Nguyen,Financial Analyst,2020-09-30,d.nguyen@company.com,D002
+E020,Amy,Walsh,Sales Representative,2023-04-17,a.walsh@company.com,D005

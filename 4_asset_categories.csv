@@ -1,0 +1,10 @@
+category_id,category_name,depreciation_years
+AC001,Laptop,3
+AC002,Desktop,4
+AC003,Server,5
+AC004,Network Switch,5
+AC005,Firewall,5
+AC006,VoIP Phone,3
+AC007,Printer,4
+AC008,Monitor,4
+AC009,Peripheral,3

@@ -1,0 +1,31 @@
+ticket_id,category,priority,status,date_opened,date_closed,resolution_notes,submitted_by,assigned_to,asset_id
+T001,Hardware,Medium,Closed,2024-01-08,2024-01-10,Replaced keyboard,E003,E005,A001
+T002,Software,Low,Closed,2024-01-12,2024-01-14,Reinstalled VPN client,E006,E013,A005
+T003,Hardware,High,Closed,2024-01-20,2024-01-22,Repaired charging port,E004,E001,A009
+T004,Network,High,Closed,2024-02-03,2024-02-04,Reconfigured VLAN settings,E011,E002,A014
+T005,Hardware,Low,Closed,2024-02-10,2024-02-12,Replaced handset cable,E014,E005,A010
+T006,Software,Medium,Closed,2024-02-18,2024-02-21,Updated OS and drivers,E012,E013,A016
+T007,Software,Low,Closed,2024-03-01,2024-03-02,Installed missing software,E003,E001,A001
+T008,Hardware,Medium,Closed,2024-03-07,2024-03-09,Replaced VoIP phone unit,E008,E005,A021
+T009,Network,High,Open,2024-03-15,,Investigating intermittent downtime,E009,E002,A015
+T010,Hardware,Low,Closed,2024-03-20,2024-03-21,Replaced monitor cable,E006,E013,A018
+T011,Security,Critical,Closed,2024-04-01,2024-04-02,Patched critical vulnerability,E001,E015,A006
+T012,Security,Critical,Closed,2024-04-05,2024-04-06,Updated firewall firmware,E007,E015,A017
+T013,Hardware,Low,Closed,2024-04-10,2024-04-11,Replaced docking station,E004,E005,A022
+T014,Hardware,Medium,Closed,2024-04-18,2024-04-20,RAM upgrade,E003,E001,A006
+T015,Software,Low,Open,2024-04-25,,Password reset request pending,E010,E013,
+T016,Network,Medium,Closed,2024-05-02,2024-05-03,Adjusted firewall rules,E015,E002,A007
+T017,Software,Low,Closed,2024-05-10,2024-05-11,Activated Microsoft 365 license,E011,E001,A012
+T018,Security,High,Closed,2024-05-14,2024-05-15,Removed malware and re-imaged drive,E009,E015,A015
+T019,Software,Medium,Open,2024-05-20,,Diagnosing slow performance,E005,E013,A020
+T020,Network,High,Closed,2024-05-25,2024-05-26,Replaced failing SFP module,E014,E002,A003
+T021,Hardware,Low,Closed,2024-06-01,2024-06-03,Battery replacement,E012,E005,A016
+T022,Hardware,Medium,Closed,2024-06-08,2024-06-10,Replaced failed HDD,E006,E001,A006
+T023,Security,High,Closed,2024-06-15,2024-06-16,Enforced BitLocker encryption,E003,E015,A023
+T024,Software,Low,Closed,2024-06-20,2024-06-21,Updated Zoom client,E008,E013,A001
+T025,Network,Critical,Open,2024-06-28,,Switch port failures under investigation,E007,E002,A014
+T026,Hardware,Medium,Closed,2024-07-05,2024-07-07,Screen replacement,E016,E005,A026
+T027,Software,Low,Closed,2024-07-10,2024-07-11,Outlook configuration fix,E019,E013,A030
+T028,Security,High,Closed,2024-07-18,2024-07-19,Forced password reset after phishing attempt,E017,E015,A029
+T029,Hardware,Low,Closed,2024-07-22,2024-07-23,Replaced mouse and keyboard,E018,E005,A027
+T030,Network,Medium,Closed,2024-08-01,2024-08-02,VPN access restored,E020,E002,A028

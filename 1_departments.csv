@@ -1,0 +1,6 @@
+department_id,department_name,location,budget,manager_id
+D001,IT Operations,Atlanta,500000.00,E007
+D002,Finance,Chicago,300000.00,E014
+D003,Human Resources,New York,200000.00,E004
+D004,Marketing,Austin,250000.00,E006
+D005,Sales,Atlanta,400000.00,E010
